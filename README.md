@@ -9,6 +9,7 @@ Inefficient and untimely collection of waste will end up causing a loss of valua
 The Smart Trashbin monitoring system presents a proof of concept where the system is used to monitor the trash level in the trash bins located across the city.
 
 The system will generate data analytics and inform the user when it is time to empty the trash bins. The analytics generated can also be used to create an intelligent waste collection system that will create predictions and prepare route plans to collect waste as efficiently as possible.
+<br/>
 
 ## Project Objective
 
@@ -16,9 +17,9 @@ The idea behind this project is to create a system that monitors the trash level
 
 Furthermore, a few advanced features were also implemented in the device’s firmware as well as to the platform which provide remote access to the node installed in the Trash bin in case the device requires some reconfiguration.
 
-*Full list of features and capabilities are listed in a separate section below.*
+> *Full list of features and capabilities are listed in a separate section below.*
 
-## 
+
 
 ## Hardware used
 
@@ -27,14 +28,14 @@ Furthermore, a few advanced features were also implemented in the device’s fir
 -   Breadboard, for prototyping
 -   Battery to power the nodes.
 
-## 
+
 
 ## Software used
 
 -   Arduino IDE is used for firmware programming using Arduino C/C++ language.
 -   The Losant Platform itself requires some process automation programming in its dedicated environment called workflows to support our advanced features. The GUI itself is interactive and fun to use.
 
-## 
+
 
 ## Features offered
 
@@ -50,8 +51,6 @@ Our Node presents the following features…
 -   Robust connection to Losant server
     -   The device sometimes gets dropped from the Losant server and is unable to connect back. To fix this, Robust timeout logic was created which retries connection to the server if communication with the Losant server fails.
 -   Connects to the Losant server and pushes the Trash Level to the server.
-
-### 
 
 ### Advanced features in version 2.0
 
@@ -80,22 +79,50 @@ The following features were added to the device…
 -   Added current Sensor height metric display on the dashboard (useful in calibrating trashcan height)
 -   Added disable sleep mode, set the timer to 0 to disable sleep and get real-time data.
 
-For more details please refer to the project’s wiki
+> For more details please refer to the project’s wiki
+
+
+<br/>
 
 ## Testing…. Device pics
+<br/>
 
-![](media/a9ef86a8cbf17fe4e2e2e721b887d015.jpeg)
+<p align="Center">
+  <img width="460" height="300" src="./Resources/images/a9ef86a8cbf17fe4e2e2e721b887d015.jpeg">
+</p>
+
+<!---![](Resources/images/a9ef86a8cbf17fe4e2e2e721b887d015.jpeg) --->
+<br/>
 
 **Device Mounted**
+<p align="Center">
+  <img width="460" height="300" src="./Resources/images/e5c3e28f7e18ab67e6418039140a89b3.jpeg">
+</p>
 
-![](media/e5c3e28f7e18ab67e6418039140a89b3.jpeg)
+<!---![](Resources/images/e5c3e28f7e18ab67e6418039140a89b3.jpeg) --->
+
+<br/>
 
 **Adapting to the situation….**
 
-![](media/cfb2a907f65ba0d904a97b5bc502866f.jpeg)
+<p align="Center">
+  <img width="400" height="700" src="./Resources/images/cfb2a907f65ba0d904a97b5bc502866f.jpeg">
+</p>
 
-**Note**\*: The device is intended for large trash bins, for the sake of testing this is what we got….\*
+
+<!---![](Resources/images/cfb2a907f65ba0d904a97b5bc502866f.jpeg) --->
+
+<br/>
+
+> **Note**: <em>The device is intended for large trash bins, for the sake of testing this is what we got… </em>
+
+<br/>
+<br/>
 
 **Final Device Images**
 
-![](media/eddd967fc427444f67b000e19a7a5342.jpeg)
+<p align="Center">
+  <img width="400" height="600" src="./Resources/images/eddd967fc427444f67b000e19a7a5342.jpeg">
+</p>
+
+<!--- ![](Resources/images/eddd967fc427444f67b000e19a7a5342.jpeg) --->

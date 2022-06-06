@@ -93,14 +93,18 @@ The following features were added to the device…
 
 <!---![](Resources/images/a9ef86a8cbf17fe4e2e2e721b887d015.jpeg) --->
 <br/>
+<br/>
+
 
 **Device Mounted**
+
 <p align="Center">
   <img width="460" height="300" src="./Resources/images/e5c3e28f7e18ab67e6418039140a89b3.jpeg">
 </p>
 
 <!---![](Resources/images/e5c3e28f7e18ab67e6418039140a89b3.jpeg) --->
 
+<br/>
 <br/>
 
 **Adapting to the situation….**

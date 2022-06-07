@@ -1,0 +1,8 @@
+* Presets the height of trashcan in a variable and increases value when the height of trash increases.
+* Fetches the readings from Laser sensor in high accuracy mode.
+* Hibernation enabled. Sleeps for 60 seconds before publishing next readings.
+* Robust connection to Losant server
+** Device sometimes gets dropped from the Losant server and is unable to connect back. To fix this, Robust timeout logic
+was created which retries connection to the server if communication with the Losant server fails.
+
+*connects to the Losant server and pushes the Trash Height to the server.

@@ -88,7 +88,7 @@ The following features were added to the device…
 <br/>
 
 <p align="Center">
-  <img width="460" height="300" src="./Resources/images/a9ef86a8cbf17fe4e2e2e721b887d015.jpeg">
+  <img width="460" height="300" src="/osama.tasneem/Smart_Trashbin/wiki/raw/images/a9ef86a8cbf17fe4e2e2e721b887d015.jpeg">
 </p>
 
 <!---![](Resources/images/a9ef86a8cbf17fe4e2e2e721b887d015.jpeg) --->
@@ -99,7 +99,7 @@ The following features were added to the device…
 **Device Mounted**
 
 <p align="Center">
-  <img width="460" height="300" src="./Resources/images/e5c3e28f7e18ab67e6418039140a89b3.jpeg">
+  <img width="460" height="300" src="/osama.tasneem/Smart_Trashbin/wiki/raw/images/e5c3e28f7e18ab67e6418039140a89b3.jpeg">
 </p>
 
 <!---![](Resources/images/e5c3e28f7e18ab67e6418039140a89b3.jpeg) --->
@@ -110,8 +110,9 @@ The following features were added to the device…
 **Adapting to the situation….**
 
 <p align="Center">
-  <img width="400" height="700" src="./Resources/images/cfb2a907f65ba0d904a97b5bc502866f.jpeg">
+  <img width="400" height="700" src="/osama.tasneem/Smart_Trashbin/wiki/raw/images/cfb2a907f65ba0d904a97b5bc502866f.jpeg">
 </p>
+
 
 
 <!---![](Resources/images/cfb2a907f65ba0d904a97b5bc502866f.jpeg) --->
@@ -126,7 +127,7 @@ The following features were added to the device…
 **Final Device Images**
 
 <p align="Center">
-  <img width="400" height="600" src="./Resources/images/eddd967fc427444f67b000e19a7a5342.jpeg">
+  <img width="400" height="600" src="/osama.tasneem/Smart_Trashbin/wiki/raw/images/eddd967fc427444f67b000e19a7a5342.jpeg">
 </p>
 
 <!--- ![](Resources/images/eddd967fc427444f67b000e19a7a5342.jpeg) --->

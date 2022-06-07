@@ -6,3 +6,39 @@
 was created which retries connection to the server if communication with the Losant server fails.
 
 *connects to the Losant server and pushes the Trash Height to the server.
+
+=================================================================================================
+version 2.0
+
+*Added Configuration storage and retrieval from memory
+
+*Added failover SSID-Pass for WiFi connection (Test_IoT:12345678!)
+
+*Added Auto Height calibration mode
+
+*Added a Debug mode to print status of peripherals and system.
+
+*Added Interactive Dashboard to receive commands from central system
+- Update Node sleep duration from dashboard remotely.
+- Change Node Wifi credentials OTA
+- Switch between Auto or manual height calibration modes
+- Manually update the height of trash bin.
+- Turn Debug mode on or off remotely.
+
+*Added visualization showing realtime Trash full or empty percentage on dashboard.
+
+*Added Warning system if Trashbin height changes when compared to calibrated height.
+
+*Added System temperature status on dashboard.
+
+
+================================================================================================
+version 2.2
+
+*Added Device Status indicator on dashboard
+*Added Error message indicator on dashboard
+*Added current sleep timer metric display on dashboard
+*Added current Trash can height metric display on dashboard (useful in calibrating trashcan height)
+*Added current Sensor height metric display on dashboard (useful in calibrating trashcan height)
+*Added disable sleep mode, set the timer to 0 to disable sleep to get realtime data.
+

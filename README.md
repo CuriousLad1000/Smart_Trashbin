@@ -91,7 +91,7 @@ The following features were added to the device…
 **Losant Dashboard**
 
 <p align="Center">
-  <img width="800" height="300" src="/osama.tasneem/Smart_Trashbin/wiki/raw/images/3731b3f35600fba4550057271b387941.png">
+  <img width="1000" height="400" src="/osama.tasneem/Smart_Trashbin/wiki/raw/images/3731b3f35600fba4550057271b387941.png">
 </p>
 
 <br/>
@@ -100,7 +100,7 @@ The following features were added to the device…
 **Losant Node configuration Panel**
 
 <p align="Center">
-  <img width="800" height="300" src="/osama.tasneem/Smart_Trashbin/wiki/raw/images/d33bdc50c6b7852e943a08157f9a942b.png">
+  <img width="1000" height="400" src="/osama.tasneem/Smart_Trashbin/wiki/raw/images/d33bdc50c6b7852e943a08157f9a942b.png">
 </p>
 
 <br/>

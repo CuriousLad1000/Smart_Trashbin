@@ -91,7 +91,7 @@ The following features were added to the device…
 **Losant Dashboard**
 
 <p align="Center">
-  <img width="1000" height="400" src="/osama.tasneem/Smart_Trashbin/wiki/raw/images/3731b3f35600fba4550057271b387941.png">
+  <img width="1000" height="400" src="https://raw.githubusercontent.com/wiki/CuriousLad1000/Smart_Trashbin/images/3731b3f35600fba4550057271b387941.png">
 </p>
 
 <br/>
@@ -100,7 +100,7 @@ The following features were added to the device…
 **Losant Node configuration Panel**
 
 <p align="Center">
-  <img width="1000" height="400" src="/osama.tasneem/Smart_Trashbin/wiki/raw/images/d33bdc50c6b7852e943a08157f9a942b.png">
+  <img width="1000" height="400" src="https://raw.githubusercontent.com/wiki/CuriousLad1000/Smart_Trashbin/images/d33bdc50c6b7852e943a08157f9a942b.png">
 </p>
 
 <br/>
@@ -110,7 +110,7 @@ The following features were added to the device…
 **Device Mounted**
 
 <p align="Center">
-  <img width="460" height="300" src="/osama.tasneem/Smart_Trashbin/wiki/raw/images/e5c3e28f7e18ab67e6418039140a89b3.jpeg">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/wiki/CuriousLad1000/Smart_Trashbin/images/e5c3e28f7e18ab67e6418039140a89b3.jpeg">
 </p>
 
 <!---![](Resources/images/e5c3e28f7e18ab67e6418039140a89b3.jpeg) --->
@@ -121,7 +121,7 @@ The following features were added to the device…
 **Adapting to the situation….**
 
 <p align="Center">
-  <img width="400" height="700" src="/osama.tasneem/Smart_Trashbin/wiki/raw/images/cfb2a907f65ba0d904a97b5bc502866f.jpeg">
+  <img width="400" height="700" src="https://raw.githubusercontent.com/wiki/CuriousLad1000/Smart_Trashbin/images/cfb2a907f65ba0d904a97b5bc502866f.jpeg">
 </p>
 
 
@@ -138,7 +138,7 @@ The following features were added to the device…
 **Final Device Images**
 
 <p align="Center">
-  <img width="400" height="600" src="/osama.tasneem/Smart_Trashbin/wiki/raw/images/eddd967fc427444f67b000e19a7a5342.jpeg">
+  <img width="400" height="600" src="https://raw.githubusercontent.com/wiki/CuriousLad1000/Smart_Trashbin/images/eddd967fc427444f67b000e19a7a5342.jpeg">
 </p>
 
 <!--- ![](Resources/images/eddd967fc427444f67b000e19a7a5342.jpeg) --->
